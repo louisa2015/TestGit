@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Class3
+    {
+<<<<<<< 8e20715efd7d789878f89511b812e0b4b5535c27
+        Class3()
+        {
+        }
+=======
+>>>>>>> add files
+    }
+}
