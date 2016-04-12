@@ -8,8 +8,11 @@ namespace ConsoleApplication1
 {
     class Class3
     {
+<<<<<<< HEAD
+=======
         Class3()
         {
         }
+>>>>>>> 8e20715... add 3
     }
 }
